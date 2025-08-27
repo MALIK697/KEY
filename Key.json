@@ -13,11 +13,4 @@
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }, 
-  {
-    "id": "ce719f688be8f077",
-    "username": "1",
-    "password": "1",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  }
 ]
